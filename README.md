@@ -1,9 +1,7 @@
-# Curso-Go
-Curso básico de Go.
+# Curso Go
+Início do curso: __Junho__
 
-### Início: Junho.
-
-Nesse curso vamos ver:
+## Básico
 
 * Tipos de instalações e suas diferenças
 * Estrutura de um arquivo Go
@@ -13,3 +11,7 @@ Nesse curso vamos ver:
 * Funções com retorno simples e multiplos
 * Estrutura de controle (if, switch e loop)
 
+## InstaGo
+Criaremos uma API REST para manipulação de imagens
+
+__* Listarei brevemente oque iremos fazer, mas ainda estou pensando em mais coisas__
