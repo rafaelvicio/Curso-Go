@@ -11,7 +11,7 @@ Início do curso: __Junho__
 * Funções com retorno simples e multiplos
 * Estrutura de controle (if, switch e loop)
 
-## InstaGo
+## ImGo
 Criaremos uma API REST para manipulação de imagens
 
 __* Listarei brevemente oque iremos fazer, mas ainda estou pensando em mais coisas__
