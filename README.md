@@ -1,5 +1,5 @@
 # Curso Go
-Início do curso: __Junho__
+Início do curso: __AGOSTO__
 
 ## Básico
 
