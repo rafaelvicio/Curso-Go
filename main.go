@@ -15,7 +15,6 @@ func aula1() {
 }
 
 func aula2(t string) {
-
 	switch t {
 	case "int":
 		fmt.Println(a2.ShowType(0))
@@ -29,7 +28,6 @@ func aula2(t string) {
 		fmt.Println(a2.ShowType(true))
 		break
 	}
-
 }
 
 func main() {
