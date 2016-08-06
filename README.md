@@ -15,7 +15,6 @@
   - Map
   - Interface
 - Variáveis
-  - Em bloco  
   - Pré tipada
   - Auto tipada
 - Funções
