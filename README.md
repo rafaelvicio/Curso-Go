@@ -1,25 +1,18 @@
 # Curso Go
-Início do curso: __AGOSTO__
 
-## ImGo
-Criaremos uma API REST para manipulação de imagens
+## Básico
 
-__* Listarei brevemente oque iremos fazer, mas ainda estou pensando em mais coisas__
+### Ementa
 
-## Ementa
-
-- Instalação
-- Sintaxe
+- [Instalação](https://www.youtube.com/watch?v=WPAMvojPKK0)
+- [Sintaxe](https://www.youtube.com/watch?v=WPAMvojPKK0)
   - Estrutura dos arquivos
   - Convenções
   - Hello World
-- Tipos de dados
-  - Int
-  - Float
-  - String
-  - Bool
-  - Map
+- [Tipos de dados](https://www.youtube.com/watch?v=Q8M-xFOQJEo)
+  - Principais
   - Struct
+  - Map
   - Interface
 - Variáveis
   - Global  
