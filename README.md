@@ -15,9 +15,9 @@
   - Map
   - Interface
 - Variáveis
-  - Global  
+  - Em bloco  
   - Pré tipada
-  - Tipagem automática
+  - Auto tipada
 - Funções
   - Assinaturas
   - Retornos
