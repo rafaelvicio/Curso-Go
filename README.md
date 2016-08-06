@@ -20,6 +20,7 @@ __* Listarei brevemente oque iremos fazer, mas ainda estou pensando em mais cois
   - Bool
   - Map
   - Struct
+  - Interface
 - Variáveis
   - Global  
   - Pré tipada
