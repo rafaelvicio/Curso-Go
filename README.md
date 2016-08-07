@@ -20,7 +20,7 @@
 - Funções
   - Retornos
   - Retorno de multiplas váriaveis
-  - Variáticas
+  - Variádicas
 - Estruturas de controle
   - If
   - Switch
