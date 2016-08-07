@@ -18,9 +18,9 @@
   - Pré tipada
   - Auto tipada
 - Funções
-  - Assinaturas
   - Retornos
   - Retorno de multiplas váriaveis
+  - Variáticas
 - Estruturas de controle
   - If
   - Switch
