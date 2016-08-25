@@ -14,7 +14,7 @@
   - Struct
   - Map
   - Interface
-- Variáveis
+- [Variáveis](https://www.youtube.com/watch?v=FDBf3gfSDR4)
   - Pré tipada
   - Auto tipada
 - Funções
